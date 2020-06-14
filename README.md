@@ -4,4 +4,6 @@ In this project, we create a simple wireless system by genereting a signal, tran
 
 A detailed report explaining, the transmitter, the receiver, the channel and the result analysis can be downloaded [here](OFDMReport_EmilioFernandez.pdf). The generated signal is `out.wmv`. In case of not having speakers and/or microphone, the executable `audiotrans.m` can also be run in Bypass mode because the output signal of the transmitter is directly copied into the input of the receiver. 
 
+![](magnitude_channel.PNG)
+
 
